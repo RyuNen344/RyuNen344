@@ -1,21 +1,6 @@
-<!--
-**RyuNen344/RyuNen344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![RyuNen344's github stats](https://github-readme-stats.vercel.app/api?username=RyuNen344&count_private=true&show_icons=true)](https://github.com/RyuNen344)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuNen344)](https://github.com/RyuNen344)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyuNen344&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuNen344" />
-</a>
+[![Twitter](https://img.shields.io/twitter/follow/RyuNen344?style=flat-square)](https://twitter.com/RyuNen344)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/RyuNen344/posts.svg)](http://qiita.com/RyuNen344)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/RyuNen344/contributions.svg)](http://qiita.com/RyuNen344)
