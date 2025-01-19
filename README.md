@@ -5,13 +5,18 @@ val RyuNen344 = developer {
         location = "Japan"
     }
     language {
-      [
-        "Kotlin",
-        "Java",
-        "TypeScript",
-        "Go",
-        "Rust",
-      ]
+        tier1 = [
+            "Kotlin",
+        ]
+        tier2 = [
+            "Java",
+            "Swift",
+            "TypeScript",
+        ]
+        tier3 = [
+            "Go",
+            "Rust",
+        ]
     }
     links {
         twitter = "@RyuNen344"
